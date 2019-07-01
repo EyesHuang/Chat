@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="need_a_new_account">Need a new account?</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="default_status">Hi, I am using Chat App</string>
+    <string name="send_friend_request">Send Friend Request</string>
+    <string name="cancel_friend_request">Cancel Friend Request</string>
+    <string name="accept_friend_request">Accept Friend Request</string>
+    <string name="not_friends">not_friends</string>
+    <string name="req_sent">req_sent</string>
+    <string name="request_type">request_type</string>
+    <string name="sent">sent</string>
+    <string name="received">received</string>
+    <string name="req_received">req_received</string>
+    <string name="friends">friends</string>
+    <string name="un_friend">UnFriend this Person</string>
+    <string name="ref_friend_req">Friend_req</string>
+    <string name="ref_friends">Friends</string>
+    <string name="ref_notifications">notifications</string>
+    <string name="ref_users">Users</string>
+    <string name="fragment_page_one">Friends</string>
+    <string name="fragment_page_two">Chats</string>
+    <string name="fragment_page_three">Settings</string>
+    <string name="ref_chat">Chat</string>
+    <string name="ref_messages">messages</string>
+</resources>

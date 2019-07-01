@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Draw outline by defined color-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/black"/>
+        </shape>
+    </item>
+
+    <!--Choose one side to draw outline, and fill color in rectangle-->
+    <item android:bottom="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+        </shape>
+    </item>
+
+</layer-list>
